@@ -109,7 +109,7 @@ The Power BI report consists of three interactive pages:
 - Loan performance by employee length.
 - Loan distribution by term (36 months vs. 60 months).
 - Loan purpose breakdown by total amount received.
-- Dynamic measure selection and interactive filters for state, grade, and good vs. bad loans.
+- Dynamic measure selection and interactive filters for Home Ownership, grade, and good vs. bad loans.
 
 **3. Details Dashboard**
 - Detailed loan-level records.
