@@ -125,13 +125,13 @@ The report was published to Power BI Service.
 # Snapshot of Dashboard (Power BI)
 
 ### Summary Dashboard
-<img width="100%" alt="Bank Loan Summary Dashboard" src="YOUR_SUMMARY_IMAGE_URL" />
+<img width="1432" height="807" alt="Summary" src="https://github.com/user-attachments/assets/c7a6075b-11d1-467d-82b4-355a8d21fb5c" />
 
 ### Overview Dashboard
-<img width="100%" alt="Bank Loan Overview Dashboard" src="YOUR_OVERVIEW_IMAGE_URL" />
+<img width="1429" height="804" alt="Overview" src="https://github.com/user-attachments/assets/0740b71b-7ccf-4fbd-9899-38d21f023aa2" />
 
 ### Details Dashboard
-<img width="100%" alt="Bank Loan Details Dashboard" src="YOUR_DETAILS_IMAGE_URL" />
+<img width="1436" height="806" alt="Details" src="https://github.com/user-attachments/assets/195c3d57-08a6-4cae-b7e2-6a7a6c425235" />
 
 # Key Insights & Analytical Findings
 
