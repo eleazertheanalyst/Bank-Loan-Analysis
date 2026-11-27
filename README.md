@@ -1,4 +1,5 @@
 # End-to-End Bank Loan Analysis (SQL, Power BI)
+[Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTY0MjVjZmUtNzllZS00MjU3LWE2ZDgtYjZlNDM3NjZlMDNkIiwidCI6ImViOGQyOTdiLTQyNWYtNDcyNy05N2QzLTkzNWE3NjlkNDhmOCJ9)
 
 ## Project Overview
 
